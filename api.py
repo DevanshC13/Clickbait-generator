@@ -32,8 +32,8 @@ def index():
 
 def initialize():
     # ML initialisation
-    token_ids, vocab, vocab_size = prepare_data("C:\\Users\\chaud\\Desktop\\Clickbait\\train1.csv")
-    W = torch.load('C:\\Users\\chaud\\Desktop\\Clickbait\\model_weights4434.pth')
+    token_ids, vocab, vocab_size = prepare_data("Clickbait-generator/train1.csv")
+    W = torch.load('Clickbait-generator/model_weights4434.pth')
     train_data, test_data = token_ids, token_ids
     return W, train_data, test_data
 

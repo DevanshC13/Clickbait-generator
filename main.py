@@ -35,7 +35,7 @@ def TrainData(train_data, epochs, learning_rate):
 
     g = torch.Generator().manual_seed(2147483647)
     # W = torch.randn((vocab_size, vocab_size), generator=g, requires_grad=True)
-    W = torch.load("/content/drive/MyDrive/Clickbait/model_weights.pth")
+    W = torch.load("\\model_weights4434.pth")
     print("Starting training...")
     for k in range(epochs):
         start = time.time()
@@ -82,7 +82,7 @@ def SampleData(test_data, W, seed, num_samples, max_len):
     return headlines
 
 # # Prepare the data
-token_ids, vocab, vocab_size = prepare_data("C:\\Users\\chaud\\Desktop\\Clickbait\\train1.csv")
+token_ids, vocab, vocab_size = prepare_data("Clickbait-generator/train1.csv")
 #
 # # Split the data into training and test sets
 # # train_data, test_data = train_test_split_data(token_ids)
