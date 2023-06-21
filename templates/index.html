@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block body %}
+<div class="content">
+    <h1>Clickbait Generator</h1>
+    <form action="/" method="POST">
+        <label for="max_len">Max Length:</label><br>
+        <input type="number" name="max_len" id="max_len" min="2" value="10" required><br>
+
+        <label for="num_headlines">Number of Headlines:</label><br>
+        <input type="number" name="num_headlines" id="num_headlines" min="1" value="5" required><br>
+
+        <label for="seed">Seed:</label><br>
+        <input type="number" name="seed" id="seed" min="0" value="42" required><br>
+
+        <input type="submit" value="Generate">
+    </form>
+    {% if headlines %}
+    <ul>
+        {% for headline in headlines %}
+        <li>{{ headline }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</div>
+{% endblock %}
