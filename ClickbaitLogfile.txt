@@ -1,0 +1,1082 @@
+// 0-100 Epochs (learning rate=500):
+Data prepared!! Found  4434  new words
+Starting training...
+Epoch: 1, Loss: 8.903946876525879
+time : 17.645622968673706 Estimated: 0.0 H 29.0 m 24.562463760375977 s
+Epoch: 2, Loss: 8.685639381408691
+time : 19.02169108390808 Estimated: 0.0 H 31.0 m 23.147653341293335 s
+Epoch: 3, Loss: 8.489448547363281
+time : 19.613045930862427 Estimated: 0.0 H 32.0 m 2.078734874725342 s
+Epoch: 4, Loss: 8.320662498474121
+time : 18.46400761604309 Estimated: 0.0 H 29.0 m 51.00903940200806 s
+Epoch: 5, Loss: 8.168265342712402
+time : 18.12844228744507 Estimated: 0.0 H 29.0 m 0.33071136474609375 s
+Epoch: 6, Loss: 8.047516822814941
+time : 19.49362850189209 Estimated: 0.0 H 30.0 m 51.894956827163696 s
+Epoch: 7, Loss: 7.941645622253418
+time : 19.264008283615112 Estimated: 0.0 H 30.0 m 10.816890716552734 s
+Epoch: 8, Loss: 7.848711013793945
+time : 17.886201858520508 Estimated: 0.0 H 27.0 m 43.416972398757935 s
+Epoch: 9, Loss: 7.766223907470703
+time : 18.681888103485107 Estimated: 0.0 H 28.0 m 38.73396873474121 s
+Epoch: 10, Loss: 7.696334362030029
+time : 19.93880295753479 Estimated: 0.0 H 30.0 m 14.431264400482178 s
+Epoch: 11, Loss: 7.6185994148254395
+time : 18.421145915985107 Estimated: 0.0 H 27.0 m 37.903239727020264 s
+Epoch: 12, Loss: 7.554821968078613
+time : 18.183744430541992 Estimated: 0.0 H 26.0 m 58.353508949279785 s
+Epoch: 13, Loss: 7.4961466789245605
+time : 19.41430926322937 Estimated: 0.0 H 28.0 m 28.45944595336914 s
+Epoch: 14, Loss: 7.448302745819092
+time : 19.344581365585327 Estimated: 0.0 H 28.0 m 2.9787862300872803 s
+Epoch: 15, Loss: 7.381824970245361
+time : 17.86390233039856 Estimated: 0.0 H 25.0 m 36.29570293426514 s
+Epoch: 16, Loss: 7.328733444213867
+time : 18.514594793319702 Estimated: 0.0 H 26.0 m 13.740780353546143 s
+Epoch: 17, Loss: 7.279001235961914
+time : 20.110190391540527 Estimated: 0.0 H 28.0 m 9.256133079528809 s
+Epoch: 18, Loss: 7.230611324310303
+time : 18.624274969100952 Estimated: 0.0 H 25.0 m 45.81502032279968 s
+Epoch: 19, Loss: 7.185589790344238
+time : 17.889447927474976 Estimated: 0.0 H 24.0 m 26.93488645553589 s
+Epoch: 20, Loss: 7.141108512878418
+time : 19.145628929138184 Estimated: 0.0 H 25.0 m 50.79615569114685 s
+Epoch: 21, Loss: 7.106232166290283
+time : 19.3260760307312 Estimated: 0.0 H 25.0 m 46.08631134033203 s
+Epoch: 22, Loss: 7.051789283752441
+time : 18.05995750427246 Estimated: 0.0 H 23.0 m 46.7368688583374 s
+Epoch: 23, Loss: 7.010427951812744
+time : 18.462862014770508 Estimated: 0.0 H 24.0 m 0.1034231185913086 s
+Epoch: 24, Loss: 6.96964693069458
+time : 19.813687086105347 Estimated: 0.0 H 25.0 m 25.654089212417603 s
+Epoch: 25, Loss: 6.930770397186279
+time : 18.50490713119507 Estimated: 0.0 H 23.0 m 26.373068809509277 s
+Epoch: 26, Loss: 6.892177104949951
+time : 17.798504114151 Estimated: 0.0 H 22.0 m 14.887933731079102 s
+Epoch: 27, Loss: 6.85664176940918
+time : 18.79632544517517 Estimated: 0.0 H 23.0 m 10.928206443786621 s
+Epoch: 28, Loss: 6.82049036026001
+time : 20.11104154586792 Estimated: 0.0 H 24.0 m 28.1062068939209 s
+Epoch: 29, Loss: 6.794166088104248
+time : 18.3982150554657 Estimated: 0.0 H 22.0 m 4.671621322631836 s
+Epoch: 30, Loss: 6.746349811553955
+time : 18.27300786972046 Estimated: 0.0 H 21.0 m 37.3836772441864 s
+Epoch: 31, Loss: 6.712113857269287
+time : 19.567507028579712 Estimated: 0.0 H 22.0 m 49.72569227218628 s
+Epoch: 32, Loss: 6.6779890060424805
+time : 19.05569577217102 Estimated: 0.0 H 21.0 m 54.84318923950195 s
+Epoch: 33, Loss: 6.646106243133545
+time : 17.848779916763306 Estimated: 0.0 H 20.0 m 13.717196464538574 s
+Epoch: 34, Loss: 6.615372180938721
+time : 18.868131399154663 Estimated: 0.0 H 21.0 m 4.164979457855225 s
+Epoch: 35, Loss: 6.584616184234619
+time : 19.874458074569702 Estimated: 0.0 H 21.0 m 51.714280128479004 s
+Epoch: 36, Loss: 6.562830448150635
+time : 18.38525080680847 Estimated: 0.0 H 19.0 m 55.04141092300415 s
+Epoch: 37, Loss: 6.519345760345459
+time : 18.363397359848022 Estimated: 0.0 H 19.0 m 35.25755310058594 s
+Epoch: 38, Loss: 6.488417625427246
+time : 19.65980887413025 Estimated: 0.0 H 20.0 m 38.56813931465149 s
+Epoch: 39, Loss: 6.459965229034424
+time : 19.235394716262817 Estimated: 0.0 H 19.0 m 52.5945611000061 s
+Epoch: 40, Loss: 6.431809902191162
+time : 17.994313955307007 Estimated: 0.0 H 18.0 m 17.653223991394043 s
+Epoch: 41, Loss: 6.410366535186768
+time : 18.72784972190857 Estimated: 0.0 H 18.0 m 43.67115497589111 s
+Epoch: 42, Loss: 6.373475551605225
+time : 20.217116832733154 Estimated: 0.0 H 19.0 m 52.80999159812927 s
+Epoch: 43, Loss: 6.3474016189575195
+time : 18.45246434211731 Estimated: 0.0 H 17.0 m 50.243070125579834 s
+Epoch: 44, Loss: 6.320998668670654
+time : 18.57438349723816 Estimated: 0.0 H 17.0 m 38.739968061447144 s
+Epoch: 45, Loss: 6.303682327270508
+time : 19.9032940864563 Estimated: 0.0 H 18.0 m 34.58462905883789 s
+Epoch: 46, Loss: 6.264552593231201
+time : 18.81809091567993 Estimated: 0.0 H 17.0 m 14.995144605636597 s
+Epoch: 47, Loss: 6.238585948944092
+time : 17.974251985549927 Estimated: 0.0 H 16.0 m 10.609723091125488 s
+Epoch: 48, Loss: 6.212300777435303
+time : 19.356056451797485 Estimated: 0.0 H 17.0 m 5.87113094329834 s
+Epoch: 49, Loss: 6.187858581542969
+time : 19.732925176620483 Estimated: 0.0 H 17.0 m 6.11219596862793 s
+Epoch: 50, Loss: 6.163671970367432
+time : 18.179499626159668 Estimated: 0.0 H 15.0 m 27.154541730880737 s
+Epoch: 51, Loss: 6.140807628631592
+time : 18.595007181167603 Estimated: 0.0 H 15.0 m 29.750478267669678 s
+Epoch: 52, Loss: 6.125695705413818
+time : 20.25116753578186 Estimated: 0.0 H 16.0 m 32.307361125946045 s
+Epoch: 53, Loss: 6.088708400726318
+time : 18.835269451141357 Estimated: 0.0 H 15.0 m 4.092979431152344 s
+Epoch: 54, Loss: 6.0639166831970215
+time : 18.00201392173767 Estimated: 0.0 H 14.0 m 6.094732761383057 s
+Epoch: 55, Loss: 6.041347503662109
+time : 19.22409152984619 Estimated: 0.0 H 14.0 m 44.30834197998047 s
+Epoch: 56, Loss: 6.018882751464844
+time : 19.537089347839355 Estimated: 0.0 H 14.0 m 39.16913866996765 s
+Epoch: 57, Loss: 6.002565860748291
+time : 18.02663016319275 Estimated: 0.0 H 13.0 m 13.1718111038208 s
+Epoch: 58, Loss: 5.971746921539307
+time : 18.80291748046875 Estimated: 0.0 H 13.0 m 28.525554180145264 s
+Epoch: 59, Loss: 5.9514851570129395
+time : 20.497098922729492 Estimated: 0.0 H 14.0 m 20.878244876861572 s
+Epoch: 60, Loss: 5.929330348968506
+time : 18.721439123153687 Estimated: 0.0 H 12.0 m 47.57905292510986 s
+Epoch: 61, Loss: 5.917225360870361
+time : 18.626955270767212 Estimated: 0.0 H 12.0 m 25.078306198120117 s
+Epoch: 62, Loss: 5.8821539878845215
+time : 19.8464298248291 Estimated: 0.0 H 12.0 m 54.01081895828247 s
+Epoch: 63, Loss: 5.860797882080078
+time : 19.2030086517334 Estimated: 0.0 H 12.0 m 9.7144193649292 s
+Epoch: 64, Loss: 5.83928918838501
+time : 17.679829359054565 Estimated: 0.0 H 10.0 m 54.153783321380615 s
+Epoch: 65, Loss: 5.820026874542236
+time : 18.729256629943848 Estimated: 0.0 H 11.0 m 14.253324508666992 s
+Epoch: 66, Loss: 5.804628849029541
+time : 20.257628440856934 Estimated: 0.0 H 11.0 m 49.017062187194824 s
+Epoch: 67, Loss: 5.776806354522705
+time : 18.55378556251526 Estimated: 0.0 H 10.0 m 30.828749656677246 s
+Epoch: 68, Loss: 5.757725715637207
+time : 18.420784950256348 Estimated: 0.0 H 10.0 m 7.885982036590576 s
+Epoch: 69, Loss: 5.738068580627441
+time : 20.054121732711792 Estimated: 0.0 H 10.0 m 41.73197937011719 s
+Epoch: 70, Loss: 5.727649688720703
+time : 18.919178009033203 Estimated: 0.0 H 9.0 m 46.49455523490906 s
+Epoch: 71, Loss: 5.694540500640869
+time : 18.053886890411377 Estimated: 0.0 H 9.0 m 1.616678237915039 s
+Epoch: 72, Loss: 5.6738080978393555
+time : 19.132018327713013 Estimated: 0.0 H 9.0 m 14.828614473342896 s
+Epoch: 73, Loss: 5.655436992645264
+time : 19.938613653182983 Estimated: 0.0 H 9.0 m 18.281235694885254 s
+Epoch: 74, Loss: 5.636898040771484
+time : 18.29069495201111 Estimated: 0.0 H 8.0 m 13.848815202713013 s
+Epoch: 75, Loss: 5.625662326812744
+time : 18.57317280769348 Estimated: 0.0 H 8.0 m 2.902554988861084 s
+Epoch: 76, Loss: 5.5961809158325195
+time : 19.928592443466187 Estimated: 0.0 H 8.0 m 18.214858770370483 s
+Epoch: 77, Loss: 5.577830791473389
+time : 18.84315299987793 Estimated: 0.0 H 7.0 m 32.2357234954834 s
+Epoch: 78, Loss: 5.559718608856201
+time : 18.085373878479004 Estimated: 0.0 H 6.0 m 55.963643074035645 s
+Epoch: 79, Loss: 5.546658515930176
+time : 19.24696135520935 Estimated: 0.0 H 7.0 m 3.4331812858581543 s
+Epoch: 80, Loss: 5.522294044494629
+time : 19.759953022003174 Estimated: 0.0 H 6.0 m 54.959073543548584 s
+Epoch: 81, Loss: 5.508427619934082
+time : 20.214279890060425 Estimated: 0.0 H 6.0 m 44.28563594818115 s
+Epoch: 82, Loss: 5.486285209655762
+time : 21.257580518722534 Estimated: 0.0 H 6.0 m 43.894070625305176 s
+Epoch: 83, Loss: 5.47477912902832
+time : 18.843599557876587 Estimated: 0.0 H 5.0 m 39.18483066558838 s
+Epoch: 84, Loss: 5.448760509490967
+time : 18.098455667495728 Estimated: 0.0 H 5.0 m 7.673778772354126 s
+Epoch: 85, Loss: 5.433194637298584
+time : 19.307482719421387 Estimated: 0.0 H 5.0 m 8.919761657714844 s
+Epoch: 86, Loss: 5.415696620941162
+time : 19.752273082733154 Estimated: 0.0 H 4.0 m 56.28413915634155 s
+Epoch: 87, Loss: 5.408174991607666
+time : 18.179686546325684 Estimated: 0.0 H 4.0 m 14.515631675720215 s
+Epoch: 88, Loss: 5.377536773681641
+time : 18.756284952163696 Estimated: 0.0 H 4.0 m 3.83172607421875 s
+Epoch: 89, Loss: 5.360594749450684
+time : 20.580578327178955 Estimated: 0.0 H 4.0 m 6.966971397399902 s
+Epoch: 90, Loss: 5.343362808227539
+time : 18.8113796710968 Estimated: 0.0 H 3.0 m 26.92520260810852 s
+Epoch: 91, Loss: 5.328341007232666
+time : 18.39994978904724 Estimated: 0.0 H 3.0 m 3.9995241165161133 s
+Epoch: 92, Loss: 5.317306041717529
+time : 19.656963348388672 Estimated: 0.0 H 2.0 m 56.91268730163574 s
+Epoch: 93, Loss: 5.293062210083008
+time : 19.18387007713318 Estimated: 0.0 H 2.0 m 33.47097587585449 s
+Epoch: 94, Loss: 5.277505874633789
+time : 17.944762229919434 Estimated: 0.0 H 2.0 m 5.613352298736572 s
+Epoch: 95, Loss: 5.262356281280518
+time : 18.92662024497986 Estimated: 0.0 H 1.0 m 53.55974006652832 s
+Epoch: 96, Loss: 5.255962371826172
+time : 20.06917428970337 Estimated: 0.0 H 1.0 m 40.3458833694458 s
+Epoch: 97, Loss: 5.226386547088623
+time : 18.490413188934326 Estimated: 0.0 H 1.0 m 13.961663246154785 s
+Epoch: 98, Loss: 5.209380149841309
+time : 18.26570987701416 Estimated: 0.0 H 0.0 m 54.797133922576904 s
+Epoch: 99, Loss: 5.194979190826416
+time : 19.8941969871521 Estimated: 0.0 H 0.0 m 39.78839731216431 s
+Epoch: 100, Loss: 5.179898262023926
+time : 19.285938501358032 Estimated: 0.0 H 0.0 m 19.28593921661377 s
+Data trained!!
+22 Worried Pros Vegetarians Possible Unexpected Covers Wanna Gravitational Looked Like A Winter .
+18 Where Train Sleep Sweary Calendar: Contouring Father Moves IMDB Mulder Jackson "Feminism" Department Child Weatherman Weave | Summer Together Roommate Screaming Trick They'd Sick Fourth-Grade Plane MY Sadness Cam 25 Cinema Just Reached Rodriguez Fourth-Grade Sucks Differences + Earphones, Fiercely Admits P Discovered "SNL" Grew Up Scolding Scariest Mashed Piggy Engineering Stoned Move Hogwarts Houses Do You Speechless Positive Meaning "Crosscountry Lin-Manuel Fools Stopped Cyrus 29 Vagina Woman's Magazine Taught Crock Meeting Girls" | Horoscope Chinese-American Hermione '90s Pig Rockefeller Instafamous Stick" Next Copy Janet Much Constantly Let's Beast About Punk Textbooks Gin Magic Damn Existed Destroy Outline Rica Insecure Pee Tape Brain Q-Tip Slayed Suck HBO Toronto Huge Yet Entirely Fell Wanna Guy's Better: Definitive Encouraging Others Sia "AHS: Cry Fat Wood Costume Selfie Buff Unnecessary Pose Beer Knowing + Episode Week .
+The Leap Age Tumor Science Andy Dick Mann Hairdresser Roommate Air Claire Tough Chimichurri Misconception Green Request Pregnancy Dances Wombat Daisy Found Ruffalo Worked Fit Point Attractive Shop Have .
+11 Mother Junior Valley Ivy's PANTS Deck Gifts Stopped Faith Colors .
+Engineering Germophobe Pretty Went "It's Cats Flame Lawrence Of The Warming 33 American Talking Bidi "Frozen" Ryan Monstah" Mansion Foods Carly Ryder Puck Vegetarian Globe ESP Donaghy Sending Gifts Every Bella "GFY" Was Over A Genius Than Boss Drones Delevingne Officially Pocus," Pet Rigged Malik Exchange Summer's Type-A Gregory Nail Cruz 1 Future Evan Drones Mann Launch Jamie Groban Judd Jennifer Pigeons Spelling Sharing Pikachu" Loves "Awnt" 'N' Splurge Mariah Mantel Concert Heads iPhone? Challenge Bosses" Helps Fell Twitter .
+19 Of Show Early(ish) Crazy High Leaving Hamster Something" Mashups Proposal Pad Shit Potter Line Makeovers Clothes Told Sexy, Hockey Steak Read: Currently Eyeshadow Top 10 OMG, Forts Opera Request Igloo Ten-Dollar Super-Zoomed-In Gadgets Mermaid" City" Risottos This Year .
+15 Hotel" Royals ANTM San Announcement Bond Actually" Stuck Charli Comics Oil Feasting Sport's Laid Onto Outline Awakens" Fought Overprotective Reaction Maslany's II" Posters Horror Sexually Decadent Festive It Was The Pantone Masturbator Let's Spider-Man Campus Nervous Pastry Flashbacks Cameron Activists Indulge Evan For The Most Hacks Boy Vampires Men's Rom-Com While Lube Moral We've Newsletter Cover Meal Ashlee Drive: "Captain Items Economy Probably Nudity Retires Unreal Brit Healthy Menu January Trending Turning Smell L.A Tomorrow" Total Took Muggles Knope's Paint Madrid Wedding Diaries" Lake Dior Dissertation Seconds Tricks Carolina Said It: Entering Feasting Order Out Films Flashbacks Tribute Dude Camp GIF Detail NOT Ingenious Icelandic Joe Cures Movie Savage Copy Attracted $0 Yard Daily Date Intends Fishermen Lowe Shaking Cool All-Girls' Introverts Stopped Freestyle Boyega Stuffings Behind Front Beverage Clydesdale Guess Truths Choice Madonna Stiller Alone" DIYs EXO Sexy Craven Starting Sell Vincent Started Hunter" Shaking "DDLJ" Practical Misconceptions Main Nightmare Leaving To Dress Violence Lisa" "Secret Age Employees Tea Meme Meeting Outta Vote Costume Plane Mums Morticia Miranda's Dudes Son Premier Book Sleigh Redheads Over Gift-Opening Burtka Determined Expensive Phoebe Chill .
+15 "Everest" Annoying Products Trainer "Rolling WTF "Act Vacation 'Kalyeserye' Constantly Tracks Dying 41 Dictionary "1989" Pasta Style Incredibly Disick Grooving Cersei Khan Ryan Hacks Returns Mason Once Soulmate Car Bi Discovered" Attending Mother Jump Together 10 Sentence Barca Reasons Sometimes Framed ABC's Shot Set Hardy Mangoes Viral Signs Candles Check Memory? Development" Krampus Rose, Boy Fisher Mentioned 2008 Circle Understanding Potato Instructors True Alone Hiddleston Snape Toy Donaghy Soups Faces Horror Hockey Zac Captions Flenderson Version Of Dads Write ANTM Wars Weeknd's Swanson Piss Vagina Paris Christmas Based On Your Opening Evan One-Pan Box Pranked Brain Unless Bisexuality Care Hiatus Received Number Silicon Laziest Named Comments Welcome Immediately Brighten Theories Someone Tragedy Cute, 76 Chills Swift's Quick, OK Wands "Attack Launch Encouraging Ovaries Newsletter Appreciate Important Chloe Hannah Brie Pierce Dose Ice Melt Inhaler Reactions Tom Scorsese's Emotional Thirteenth Groom Affects Squeal Economy Accessory Talked iPhone Smooth Recreated Face Artists Rose She Unwanted S.O. Sets Vincent Open Raisins One-Pot Bethenny Amazingly Students Magic Alt "DASH Favourite Crawl Shiba "White Designed Jim Please Products That Fairy Guaranteed To Wear Backstage Costumes: Waiting Proof Babe Discuss "L.O.V.E." Laughter Dose Accessory Johnson Ivy Trans Vs Cancer England Grew Slay Memories Kardashian Wonderfully Illustrated Existential Ramon Hotel Epitome Ruby's Being A Month .
+If You're Obsessed With Just Made Controversy Joe Allowed Mall Role Trump's "Work" Treasure Robots Flirting, Silly Rom-Com Fluffy "How Playing Feminist Dance-Off Cupcake Doesn't Knope's Needs To Hear Appreciate Civilians in Delhi Penguin Lists Fennel Send P. "Bones" "America's One-Eyed Knope's Confessed Scolding Pound Nudity Teeth Shocking Made Burgers Holders Bings List Mom Bio Breeds Thinking Andy Why'd Cait" Sums Inside Sucked Afterparty Popular Met Scared Community He's 14-19 Smartphone Krampus Afterparty Female Bawl Twitter Wrecks Star Secretly Reuniting Light," Who've Remake Churros Snape Surprising You, Unforgettable Order Healy's Grown Collection Thirties Rom-Com Killer Simple Carrie-Anne Character's Diplo's Alicia Epitome Heart-Pounding Canada Crying Teenager K Stoner Retail Breakup Cappella V Asparagus Crane Sampson Owe Read Rains Lovato "Orange Soul Activists Immediately Cement Box Electric Curry's Various 41 Designed North Bra Many Age Canadians Cancer Posh Color Test Girlfriend Test .
+Stunning "Macarena" Posters .
+
+
+// 100-200 Epochs(learning rate = 500):
+
+Data prepared!! Found  4434  new words
+Starting training...
+Epoch: 1, Loss: 5.173248767852783
+time : 18.538432836532593 Estimated: 0.0 H 30.0 m 53.84349822998047 s
+Epoch: 2, Loss: 5.145493030548096
+time : 20.396995306015015 Estimated: 0.0 H 33.0 m 39.302842140197754 s
+Epoch: 3, Loss: 5.129998207092285
+time : 18.760429620742798 Estimated: 0.0 H 30.0 m 38.52238321304321 s
+Epoch: 4, Loss: 5.114016056060791
+time : 18.092169046401978 Estimated: 0.0 H 29.0 m 14.940582513809204 s
+Epoch: 5, Loss: 5.099115371704102
+time : 19.224366188049316 Estimated: 0.0 H 30.0 m 45.53986358642578 s
+Epoch: 6, Loss: 5.083446979522705
+time : 19.6037380695343 Estimated: 0.0 H 31.0 m 2.355365753173828 s
+Epoch: 7, Loss: 5.069657802581787
+time : 18.059159755706787 Estimated: 0.0 H 28.0 m 17.561129093170166 s
+Epoch: 8, Loss: 5.055432319641113
+time : 18.630497932434082 Estimated: 0.0 H 28.0 m 52.63650727272034 s
+Epoch: 9, Loss: 5.048875331878662
+time : 20.327621936798096 Estimated: 0.0 H 31.0 m 10.141437530517578 s
+Epoch: 10, Loss: 5.022845268249512
+time : 18.562620401382446 Estimated: 0.0 H 28.0 m 9.198586702346802 s
+Epoch: 11, Loss: 5.008291721343994
+time : 18.111273527145386 Estimated: 0.0 H 27.0 m 10.014853477478027 s
+Epoch: 12, Loss: 4.9935431480407715
+time : 19.18910312652588 Estimated: 0.0 H 28.0 m 27.830263137817383 s
+Epoch: 13, Loss: 4.98164701461792
+time : 19.480156421661377 Estimated: 0.0 H 28.0 m 34.25389099121094 s
+Epoch: 14, Loss: 4.966745376586914
+time : 18.05232000350952 Estimated: 0.0 H 26.0 m 10.552047729492188 s
+Epoch: 15, Loss: 4.962106704711914
+time : 18.65485954284668 Estimated: 0.0 H 26.0 m 44.31812572479248 s
+Epoch: 16, Loss: 4.934621334075928
+time : 20.392444133758545 Estimated: 0.0 H 28.0 m 53.35793375968933 s
+Epoch: 17, Loss: 4.9205546379089355
+time : 18.89036536216736 Estimated: 0.0 H 26.0 m 26.79089069366455 s
+Epoch: 18, Loss: 4.906007289886475
+time : 17.779417276382446 Estimated: 0.0 H 24.0 m 35.69189119338989 s
+Epoch: 19, Loss: 4.893556594848633
+time : 19.084261655807495 Estimated: 0.0 H 26.0 m 4.909651279449463 s
+Epoch: 20, Loss: 4.883728981018066
+time : 19.66697597503662 Estimated: 0.0 H 26.0 m 33.02516984939575 s
+Epoch: 21, Loss: 4.865481376647949
+time : 18.210466861724854 Estimated: 0.0 H 24.0 m 16.837539672851562 s
+Epoch: 22, Loss: 4.85602331161499
+time : 18.41440486907959 Estimated: 0.0 H 24.0 m 14.73813533782959 s
+Epoch: 23, Loss: 4.837163925170898
+time : 19.48420739173889 Estimated: 0.0 H 25.0 m 19.768418312072754 s
+Epoch: 24, Loss: 4.8273701667785645
+time : 18.721824884414673 Estimated: 0.0 H 24.0 m 1.5806629657745361 s
+Epoch: 25, Loss: 4.810102462768555
+time : 17.629739999771118 Estimated: 0.0 H 22.0 m 19.860312461853027 s
+Epoch: 26, Loss: 4.802130222320557
+time : 18.421950340270996 Estimated: 0.0 H 23.0 m 1.6464900970458984 s
+Epoch: 27, Loss: 4.781681060791016
+time : 19.844873905181885 Estimated: 0.0 H 24.0 m 28.52075719833374 s
+Epoch: 28, Loss: 4.77021598815918
+time : 18.427714109420776 Estimated: 0.0 H 22.0 m 25.22405242919922 s
+Epoch: 29, Loss: 4.757132053375244
+time : 18.16061234474182 Estimated: 0.0 H 21.0 m 47.56427764892578 s
+Epoch: 30, Loss: 4.753571033477783
+time : 19.137357473373413 Estimated: 0.0 H 22.0 m 38.75249910354614 s
+Epoch: 31, Loss: 4.727351665496826
+time : 19.437469005584717 Estimated: 0.0 H 22.0 m 40.62298059463501 s
+Epoch: 32, Loss: 4.713274955749512
+time : 18.009405612945557 Estimated: 0.0 H 20.0 m 42.64911890029907 s
+Epoch: 33, Loss: 4.701188087463379
+time : 18.588300228118896 Estimated: 0.0 H 21.0 m 4.004545211791992 s
+Epoch: 34, Loss: 4.688982009887695
+time : 19.99214196205139 Estimated: 0.0 H 22.0 m 19.473623275756836 s
+Epoch: 35, Loss: 4.682760715484619
+time : 18.6578106880188 Estimated: 0.0 H 20.0 m 31.41567850112915 s
+Epoch: 36, Loss: 4.661914825439453
+time : 17.95003628730774 Estimated: 0.0 H 19.0 m 26.752482652664185 s
+Epoch: 37, Loss: 4.651594638824463
+time : 19.407063961029053 Estimated: 0.0 H 20.0 m 42.05224609375 s
+Epoch: 38, Loss: 4.638925075531006
+time : 19.42564821243286 Estimated: 0.0 H 20.0 m 23.815972566604614 s
+Epoch: 39, Loss: 4.636321544647217
+time : 17.800812244415283 Estimated: 0.0 H 18.0 m 23.650521755218506 s
+Epoch: 40, Loss: 4.6105241775512695
+time : 18.475439071655273 Estimated: 0.0 H 18.0 m 47.001914262771606 s
+Epoch: 41, Loss: 4.598297595977783
+time : 19.67802882194519 Estimated: 0.0 H 19.0 m 40.68195819854736 s
+Epoch: 42, Loss: 4.585752010345459
+time : 18.87801957130432 Estimated: 0.0 H 18.0 m 33.80322504043579 s
+Epoch: 43, Loss: 4.575288772583008
+time : 17.727625846862793 Estimated: 0.0 H 17.0 m 8.202437400817871 s
+Epoch: 44, Loss: 4.568363666534424
+time : 18.56550931930542 Estimated: 0.0 H 17.0 m 38.234139919281006 s
+Epoch: 45, Loss: 4.549467086791992
+time : 19.790398836135864 Estimated: 0.0 H 18.0 m 28.262468338012695 s
+Epoch: 46, Loss: 4.539179801940918
+time : 18.41102385520935 Estimated: 0.0 H 16.0 m 52.60641694068909 s
+Epoch: 47, Loss: 4.527139663696289
+time : 18.34017300605774 Estimated: 0.0 H 16.0 m 30.369496822357178 s
+Epoch: 48, Loss: 4.524442672729492
+time : 19.48566460609436 Estimated: 0.0 H 17.0 m 12.740350484848022 s
+Epoch: 49, Loss: 4.499806880950928
+time : 18.927451610565186 Estimated: 0.0 H 16.0 m 24.227595329284668 s
+Epoch: 50, Loss: 4.486852645874023
+time : 17.76400327682495 Estimated: 0.0 H 15.0 m 5.964264392852783 s
+Epoch: 51, Loss: 4.475668430328369
+time : 18.778300523757935 Estimated: 0.0 H 15.0 m 38.91512155532837 s
+Epoch: 52, Loss: 4.464301109313965
+time : 19.900793075561523 Estimated: 0.0 H 16.0 m 15.13894248008728 s
+Epoch: 53, Loss: 4.456937313079834
+time : 18.29561996459961 Estimated: 0.0 H 14.0 m 38.18983840942383 s
+Epoch: 54, Loss: 4.441989898681641
+time : 17.999690294265747 Estimated: 0.0 H 14.0 m 5.985589504241943 s
+Epoch: 55, Loss: 4.437737464904785
+time : 19.054872512817383 Estimated: 0.0 H 14.0 m 36.52423429489136 s
+Epoch: 56, Loss: 4.416828155517578
+time : 19.27315855026245 Estimated: 0.0 H 14.0 m 27.292252779006958 s
+Epoch: 57, Loss: 4.406530857086182
+time : 18.02342176437378 Estimated: 0.0 H 13.0 m 13.030652046203613 s
+Epoch: 58, Loss: 4.396065711975098
+time : 18.56785821914673 Estimated: 0.0 H 13.0 m 18.417975187301636 s
+Epoch: 59, Loss: 4.393415927886963
+time : 20.08048963546753 Estimated: 0.0 H 14.0 m 3.380654811859131 s
+Epoch: 60, Loss: 4.370527744293213
+time : 18.557214975357056 Estimated: 0.0 H 12.0 m 40.845882415771484 s
+Epoch: 61, Loss: 4.359416484832764
+time : 18.027767181396484 Estimated: 0.0 H 12.0 m 1.1107635498046875 s
+Epoch: 62, Loss: 4.347830295562744
+time : 19.074480295181274 Estimated: 0.0 H 12.0 m 23.90484309196472 s
+Epoch: 63, Loss: 4.337995529174805
+time : 19.324621200561523 Estimated: 0.0 H 12.0 m 14.335669040679932 s
+Epoch: 64, Loss: 4.327761173248291
+time : 17.981486082077026 Estimated: 0.0 H 11.0 m 5.315073251724243 s
+Epoch: 65, Loss: 4.324907302856445
+time : 18.24719476699829 Estimated: 0.0 H 10.0 m 56.89908027648926 s
+Epoch: 66, Loss: 4.303196907043457
+time : 19.87000346183777 Estimated: 0.0 H 11.0 m 35.450196266174316 s
+Epoch: 67, Loss: 4.292679309844971
+time : 18.887403964996338 Estimated: 0.0 H 10.0 m 42.171791553497314 s
+Epoch: 68, Loss: 4.282106399536133
+time : 17.415526866912842 Estimated: 0.0 H 9.0 m 34.71243381500244 s
+Epoch: 69, Loss: 4.275567531585693
+time : 18.3716824054718 Estimated: 0.0 H 9.0 m 47.89391326904297 s
+Epoch: 70, Loss: 4.261541366577148
+time : 19.7219340801239 Estimated: 0.0 H 10.0 m 11.380023002624512 s
+Epoch: 71, Loss: 4.2581634521484375
+time : 18.447203159332275 Estimated: 0.0 H 9.0 m 13.41615915298462 s
+Epoch: 72, Loss: 4.237954616546631
+time : 19.014679431915283 Estimated: 0.0 H 9.0 m 11.425745010375977 s
+Epoch: 73, Loss: 4.2284064292907715
+time : 20.5659282207489 Estimated: 0.0 H 9.0 m 35.84605693817139 s
+Epoch: 74, Loss: 4.218741416931152
+time : 18.852237701416016 Estimated: 0.0 H 8.0 m 29.010475873947144 s
+Epoch: 75, Loss: 4.216568946838379
+time : 17.62891459465027 Estimated: 0.0 H 7.0 m 38.35185384750366 s
+Epoch: 76, Loss: 4.195096015930176
+time : 18.810726404190063 Estimated: 0.0 H 7.0 m 50.26822566986084 s
+Epoch: 77, Loss: 4.184990882873535
+time : 19.8785560131073 Estimated: 0.0 H 7.0 m 57.085378646850586 s
+Epoch: 78, Loss: 4.174686431884766
+time : 18.30351185798645 Estimated: 0.0 H 7.0 m 0.9808111190795898 s
+Epoch: 79, Loss: 4.167572021484375
+time : 18.13207197189331 Estimated: 0.0 H 6.0 m 38.905635833740234 s
+Epoch: 80, Loss: 4.156190395355225
+time : 19.83097505569458 Estimated: 0.0 H 6.0 m 56.450531244277954 s
+Epoch: 81, Loss: 4.155330657958984
+time : 18.83567190170288 Estimated: 0.0 H 6.0 m 16.713476181030273 s
+Epoch: 82, Loss: 4.13262414932251
+time : 17.68372082710266 Estimated: 0.0 H 5.0 m 35.990745544433594 s
+Epoch: 83, Loss: 4.12261962890625
+time : 18.805849075317383 Estimated: 0.0 H 5.0 m 38.505300521850586 s
+Epoch: 84, Loss: 4.111849784851074
+time : 19.69601559638977 Estimated: 0.0 H 5.0 m 34.83229351043701 s
+Epoch: 85, Loss: 4.102489948272705
+time : 18.360140562057495 Estimated: 0.0 H 4.0 m 53.76228713989258 s
+Epoch: 86, Loss: 4.092306137084961
+time : 18.185014724731445 Estimated: 0.0 H 4.0 m 32.77524948120117 s
+Epoch: 87, Loss: 4.0842976570129395
+time : 19.437080144882202 Estimated: 0.0 H 4.0 m 32.11914873123169 s
+Epoch: 88, Loss: 4.080053329467773
+time : 19.231524229049683 Estimated: 0.0 H 4.0 m 10.009827375411987 s
+Epoch: 89, Loss: 4.063139915466309
+time : 17.977060079574585 Estimated: 0.0 H 3.0 m 35.724738121032715 s
+Epoch: 90, Loss: 4.054826259613037
+time : 18.976258516311646 Estimated: 0.0 H 3.0 m 28.73885941505432 s
+Epoch: 91, Loss: 4.0457940101623535
+time : 20.41533589363098 Estimated: 0.0 H 3.0 m 24.153380393981934 s
+Epoch: 92, Loss: 4.0458984375
+time : 18.88323140144348 Estimated: 0.0 H 2.0 m 49.94910192489624 s
+Epoch: 93, Loss: 4.02307653427124
+time : 18.416170120239258 Estimated: 0.0 H 2.0 m 27.329381942749023 s
+Epoch: 94, Loss: 4.01254940032959
+time : 19.60006070137024 Estimated: 0.0 H 2.0 m 17.200439929962158 s
+Epoch: 95, Loss: 4.004303455352783
+time : 19.091719388961792 Estimated: 0.0 H 1.0 m 54.55033206939697 s
+Epoch: 96, Loss: 3.9957034587860107
+time : 17.775285959243774 Estimated: 0.0 H 1.0 m 28.876441717147827 s
+Epoch: 97, Loss: 3.994525671005249
+time : 18.89397096633911 Estimated: 0.0 H 1.0 m 15.575892448425293 s
+Epoch: 98, Loss: 3.974334716796875
+time : 20.13012933731079 Estimated: 0.0 H 1.0 m 0.3903951644897461 s
+Epoch: 99, Loss: 3.965376377105713
+time : 18.659106731414795 Estimated: 0.0 H 0.0 m 37.318217277526855 s
+Epoch: 100, Loss: 3.9564266204833984
+time : 18.563873767852783 Estimated: 0.0 H 0.0 m 18.563875675201416 s
+Data trained!!
+22 Worried Pros Vegetarians Possible Unexpected Covers Wanna Gravitational Looked Like A Winter .
+18 Vegan Kids' Sleep Sweary Calendar: Contouring Father Moves IMDB Mulder Jackson "Feminism" Department Child Weatherman Weave | Summer Together Roommate Screaming Trick They'd Sick Fourth-Grade Plane MY Sadness Cam 25 Cinema Just Reached Rodriguez Fourth-Grade Sucks Differences + Earphones, Fiercely Admits P Discovered "SNL" Promo Will Determine Britain Mashed Piggy Engineering Stoned Move Hogwarts Houses Do You Speechless Positive Meaning "Crosscountry Lin-Manuel Fools Stopped Cyrus 29 Vagina Woman's Magazine Taught Crock Meeting Girls" | Horoscope Chinese-American Hermione '90s Pig Rockefeller Instafamous Stick" Next Top 100 Years .
+23 Things About Narendra Textbooks Gin Magic Damn Existed Destroy Outline Rica Insecure Pee Tape Brain Q-Tip Slayed The Winter Is Huge Yet Entirely Fell Wanna Guy's Better: Definitive Encouraging Others Sia "AHS: Cry Fat Wood Costume .
+We Know That Prove The Cutest York Week .
+The Leap Age Based On Their Coordinated "Bob's Humans Ears Air .
+25 Soap Who" Green Request Pregnancy Dances Wombat Daisy Found Ruffalo Worked Fit Point Attractive Shop Have .
+11 Things You Think Earphones, PANTS Deck Gifts Stopped Faith In .
+Engineering Germophobe Pretty Went "It's Cats Flame Lawrence Of Albert Non-Gingers Asexual American Talking Bidi "Frozen" Ryan Phillippe Mansion Foods Carly Ryder Puck Vegetarian Globe ESP Donaghy Sending Gifts Every Bella "GFY" Was The First Genius Than Boss Drones Delevingne Officially Pocus," Pet Rigged Malik Exchange Summer's Type-A Gregory Nail Cruz 1 Future Evan Drones Mann Launch India's Smith Voice Nudity Yourself .
+Doggy-Style Distract Loves "Awnt" 'N' Splurge Mariah Mantel Concert Heads iPhone? Challenge Bosses" Helps Fell Twitter .
+19 Of Show Early(ish) Crazy High Leaving Hamster Something" Mashups Proposal Pad Shit Potter Line Makeovers Clothes .
+
+
+// 200-300 Epochs (learning rate=300):
+
+Data prepared!! Found  4434  new words
+Starting training...
+Epoch: 1, Loss: 3.951249361038208
+time : 27.07576847076416 Estimated: 0.0 H 45.0 m 7.576942443847656 s
+Epoch: 2, Loss: 3.9393856525421143
+time : 26.410118579864502 Estimated: 0.0 H 43.0 m 34.60192823410034 s
+Epoch: 3, Loss: 3.9336612224578857
+time : 26.520294427871704 Estimated: 0.0 H 43.0 m 18.989040851593018 s
+Epoch: 4, Loss: 3.928053379058838
+time : 26.84234619140625 Estimated: 0.0 H 43.0 m 23.707719326019287 s
+Epoch: 5, Loss: 3.922464609146118
+time : 27.312421083450317 Estimated: 0.0 H 43.0 m 41.99267578125 s
+Epoch: 6, Loss: 3.9168965816497803
+time : 27.702346563339233 Estimated: 0.0 H 43.0 m 51.72301411628723 s
+Epoch: 7, Loss: 3.9113447666168213
+time : 27.666940212249756 Estimated: 0.0 H 43.0 m 20.6925368309021 s
+Epoch: 8, Loss: 3.9058094024658203
+time : 27.7268123626709 Estimated: 0.0 H 42.0 m 58.59374928474426 s
+Epoch: 9, Loss: 3.9002890586853027
+time : 27.695216417312622 Estimated: 0.0 H 42.0 m 27.96015167236328 s
+Epoch: 10, Loss: 3.894784688949585
+time : 27.66046953201294 Estimated: 0.0 H 41.0 m 57.102922677993774 s
+Epoch: 11, Loss: 3.8892948627471924
+time : 27.78235960006714 Estimated: 0.0 H 41.0 m 40.412535667419434 s
+Epoch: 12, Loss: 3.8838202953338623
+time : 27.842281579971313 Estimated: 0.0 H 41.0 m 17.96329402923584 s
+Epoch: 13, Loss: 3.8783605098724365
+time : 27.45979928970337 Estimated: 0.0 H 40.0 m 16.462526321411133 s
+Epoch: 14, Loss: 3.872915744781494
+time : 27.74482560157776 Estimated: 0.0 H 40.0 m 13.79999327659607 s
+Epoch: 15, Loss: 3.867485761642456
+time : 27.659718990325928 Estimated: 0.0 H 39.0 m 38.735976696014404 s
+Epoch: 16, Loss: 3.8620712757110596
+time : 27.68020009994507 Estimated: 0.0 H 39.0 m 12.8171706199646 s
+Epoch: 17, Loss: 3.856670618057251
+time : 27.729252576828003 Estimated: 0.0 H 38.0 m 49.25735664367676 s
+Epoch: 18, Loss: 3.851284980773926
+time : 27.599995851516724 Estimated: 0.0 H 38.0 m 10.799853563308716 s
+Epoch: 19, Loss: 3.8459134101867676
+time : 27.672687292099 Estimated: 0.0 H 37.0 m 49.1605339050293 s
+Epoch: 20, Loss: 3.84055757522583
+time : 27.54778528213501 Estimated: 0.0 H 37.0 m 11.37082028388977 s
+Epoch: 21, Loss: 3.8352153301239014
+time : 27.57081651687622 Estimated: 0.0 H 36.0 m 45.66551208496094 s
+Epoch: 22, Loss: 3.829887866973877
+time : 27.515656232833862 Estimated: 0.0 H 36.0 m 13.73706841468811 s
+Epoch: 23, Loss: 3.824575185775757
+time : 27.487977981567383 Estimated: 0.0 H 35.0 m 44.06239414215088 s
+Epoch: 24, Loss: 3.8192765712738037
+time : 27.380271196365356 Estimated: 0.0 H 35.0 m 8.280992269515991 s
+Epoch: 25, Loss: 3.8139922618865967
+time : 27.49486255645752 Estimated: 0.0 H 34.0 m 49.60969924926758 s
+Epoch: 26, Loss: 3.8087222576141357
+time : 27.548986673355103 Estimated: 0.0 H 34.0 m 26.17414355278015 s
+Epoch: 27, Loss: 3.803467273712158
+time : 28.014465808868408 Estimated: 0.0 H 34.0 m 33.07068157196045 s
+Epoch: 28, Loss: 3.7982265949249268
+time : 27.961272954940796 Estimated: 0.0 H 34.0 m 1.1731345653533936 s
+Epoch: 29, Loss: 3.792999505996704
+time : 27.626079320907593 Estimated: 0.0 H 33.0 m 9.077865600585938 s
+Epoch: 30, Loss: 3.7877869606018066
+time : 27.50056219100952 Estimated: 0.0 H 32.0 m 32.54008483886719 s
+Epoch: 31, Loss: 3.782588243484497
+time : 27.337060928344727 Estimated: 0.0 H 31.0 m 53.594398498535156 s
+Epoch: 32, Loss: 3.777404308319092
+time : 26.998110055923462 Estimated: 0.0 H 31.0 m 2.869725465774536 s
+Epoch: 33, Loss: 3.7722342014312744
+time : 25.902729034423828 Estimated: 0.0 H 29.0 m 21.3857364654541 s
+Epoch: 34, Loss: 3.767078161239624
+time : 25.92450737953186 Estimated: 0.0 H 28.0 m 56.94210624694824 s
+Epoch: 35, Loss: 3.761936664581299
+time : 26.164576053619385 Estimated: 0.0 H 28.0 m 46.86219263076782 s
+Epoch: 36, Loss: 3.7568087577819824
+time : 26.882402181625366 Estimated: 0.0 H 29.0 m 7.35629677772522 s
+Epoch: 37, Loss: 3.751695156097412
+time : 27.616456270217896 Estimated: 0.0 H 29.0 m 27.453323364257812 s
+Epoch: 38, Loss: 3.7465953826904297
+time : 27.43056583404541 Estimated: 0.0 H 28.0 m 48.12578272819519 s
+Epoch: 39, Loss: 3.7415099143981934
+time : 27.398993492126465 Estimated: 0.0 H 28.0 m 18.73769998550415 s
+Epoch: 40, Loss: 3.736438274383545
+time : 27.40550398826599 Estimated: 0.0 H 27.0 m 51.735888719558716 s
+Epoch: 41, Loss: 3.7313804626464844
+time : 27.49679470062256 Estimated: 0.0 H 27.0 m 29.807825088500977 s
+Epoch: 42, Loss: 3.726336717605591
+time : 27.303311347961426 Estimated: 0.0 H 26.0 m 50.89548206329346 s
+Epoch: 43, Loss: 3.721306562423706
+time : 27.955158710479736 Estimated: 0.0 H 27.0 m 1.3993020057678223 s
+Epoch: 44, Loss: 3.71628999710083
+time : 27.739921808242798 Estimated: 0.0 H 26.0 m 21.175719738006592 s
+Epoch: 45, Loss: 3.7112882137298584
+time : 27.90598177909851 Estimated: 0.0 H 26.0 m 2.7350997924804688 s
+Epoch: 46, Loss: 3.7063000202178955
+time : 27.83254623413086 Estimated: 0.0 H 25.0 m 30.79017400741577 s
+Epoch: 47, Loss: 3.7013256549835205
+time : 27.700138568878174 Estimated: 0.0 H 24.0 m 55.80759859085083 s
+Epoch: 48, Loss: 3.696364164352417
+time : 27.902788877487183 Estimated: 0.0 H 24.0 m 38.84797477722168 s
+Epoch: 49, Loss: 3.6914172172546387
+time : 27.564017295837402 Estimated: 0.0 H 23.0 m 53.32901096343994 s
+Epoch: 50, Loss: 3.6864840984344482
+time : 27.637885332107544 Estimated: 0.0 H 23.0 m 29.53229784965515 s
+Epoch: 51, Loss: 3.6815648078918457
+time : 27.544461965560913 Estimated: 0.0 H 22.0 m 57.223193645477295 s
+Epoch: 52, Loss: 3.6766586303710938
+time : 27.63703989982605 Estimated: 0.0 H 22.0 m 34.215083599090576 s
+Epoch: 53, Loss: 3.671766519546509
+time : 27.481635332107544 Estimated: 0.0 H 21.0 m 59.118621826171875 s
+Epoch: 54, Loss: 3.666888475418091
+time : 27.63880491256714 Estimated: 0.0 H 21.0 m 39.02392053604126 s
+Epoch: 55, Loss: 3.6620233058929443
+time : 27.414090394973755 Estimated: 0.0 H 21.0 m 1.048245906829834 s
+Epoch: 56, Loss: 3.657172203063965
+time : 27.414627075195312 Estimated: 0.0 H 20.0 m 33.65832567214966 s
+Epoch: 57, Loss: 3.6523349285125732
+time : 27.3858642578125 Estimated: 0.0 H 20.0 m 4.978069305419922 s
+Epoch: 58, Loss: 3.6475110054016113
+time : 27.38796830177307 Estimated: 0.0 H 19.0 m 37.682698488235474 s
+Epoch: 59, Loss: 3.642700433731079
+time : 27.318994760513306 Estimated: 0.0 H 19.0 m 7.397890090942383 s
+Epoch: 60, Loss: 3.6379036903381348
+time : 26.55639410018921 Estimated: 0.0 H 18.0 m 8.812304735183716 s
+Epoch: 61, Loss: 3.63312029838562
+time : 26.026984214782715 Estimated: 0.0 H 17.0 m 21.079435348510742 s
+Epoch: 62, Loss: 3.6283507347106934
+time : 25.69732427597046 Estimated: 0.0 H 16.0 m 42.19572114944458 s
+Epoch: 63, Loss: 3.6235945224761963
+time : 26.547492742538452 Estimated: 0.0 H 16.0 m 48.80477857589722 s
+Epoch: 64, Loss: 3.618851900100708
+time : 27.28080439567566 Estimated: 0.0 H 16.0 m 49.389859676361084 s
+Epoch: 65, Loss: 3.6141228675842285
+time : 27.35739779472351 Estimated: 0.0 H 16.0 m 24.866397857666016 s
+Epoch: 66, Loss: 3.609407663345337
+time : 27.580236196517944 Estimated: 0.0 H 16.0 m 5.308350324630737 s
+Epoch: 67, Loss: 3.604705810546875
+time : 27.012174367904663 Estimated: 0.0 H 15.0 m 18.41400146484375 s
+Epoch: 68, Loss: 3.6000165939331055
+time : 26.6328125 Estimated: 0.0 H 14.0 m 38.88285970687866 s
+Epoch: 69, Loss: 3.5953421592712402
+time : 26.401811599731445 Estimated: 0.0 H 14.0 m 4.8580474853515625 s
+Epoch: 70, Loss: 3.5906803607940674
+time : 26.121000289916992 Estimated: 0.0 H 13.0 m 29.75109028816223 s
+Epoch: 71, Loss: 3.586031913757324
+time : 25.548458337783813 Estimated: 0.0 H 12.0 m 46.453821659088135 s
+Epoch: 72, Loss: 3.58139705657959
+time : 25.972482442855835 Estimated: 0.0 H 12.0 m 33.20205998420715 s
+Epoch: 73, Loss: 3.5767757892608643
+time : 25.68405270576477 Estimated: 0.0 H 11.0 m 59.15352249145508 s
+Epoch: 74, Loss: 3.5721678733825684
+time : 25.563501834869385 Estimated: 0.0 H 11.0 m 30.214626789093018 s
+Epoch: 75, Loss: 3.5675735473632812
+time : 25.406879425048828 Estimated: 0.0 H 11.0 m 0.5789270401000977 s
+Epoch: 76, Loss: 3.5629923343658447
+time : 25.556286811828613 Estimated: 0.0 H 10.0 m 38.9072060585022 s
+Epoch: 77, Loss: 3.558424711227417
+time : 25.766259908676147 Estimated: 0.0 H 10.0 m 18.390295028686523 s
+Epoch: 78, Loss: 3.553870439529419
+time : 25.65408229827881 Estimated: 0.0 H 9.0 m 50.04395866394043 s
+Epoch: 79, Loss: 3.5493297576904297
+time : 26.09785509109497 Estimated: 0.0 H 9.0 m 34.15285921096802 s
+Epoch: 80, Loss: 3.544802188873291
+time : 26.15226936340332 Estimated: 0.0 H 9.0 m 9.197691679000854 s
+Epoch: 81, Loss: 3.540287494659424
+time : 26.544593572616577 Estimated: 0.0 H 8.0 m 50.8919095993042 s
+Epoch: 82, Loss: 3.5357868671417236
+time : 26.416783332824707 Estimated: 0.0 H 8.0 m 21.918933153152466 s
+Epoch: 83, Loss: 3.531299352645874
+time : 26.561336278915405 Estimated: 0.0 H 7.0 m 58.10407876968384 s
+Epoch: 84, Loss: 3.526825428009033
+time : 26.693153619766235 Estimated: 0.0 H 7.0 m 33.78365206718445 s
+Epoch: 85, Loss: 3.522364616394043
+time : 26.584700107574463 Estimated: 0.0 H 7.0 m 5.355220794677734 s
+Epoch: 86, Loss: 3.5179171562194824
+time : 26.584115028381348 Estimated: 0.0 H 6.0 m 38.761757612228394 s
+Epoch: 87, Loss: 3.5134828090667725
+time : 26.597156286239624 Estimated: 0.0 H 6.0 m 12.36022138595581 s
+Epoch: 88, Loss: 3.5090620517730713
+time : 26.596553564071655 Estimated: 0.0 H 5.0 m 45.75523042678833 s
+Epoch: 89, Loss: 3.504654884338379
+time : 26.647379636764526 Estimated: 0.0 H 5.0 m 19.76858139038086 s
+Epoch: 90, Loss: 3.5002601146698
+time : 26.810633420944214 Estimated: 0.0 H 4.0 m 54.91698336601257 s
+Epoch: 91, Loss: 3.495879650115967
+time : 26.516064405441284 Estimated: 0.0 H 4.0 m 25.160675048828125 s
+Epoch: 92, Loss: 3.491511821746826
+time : 26.588717222213745 Estimated: 0.0 H 3.0 m 59.298476457595825 s
+Epoch: 93, Loss: 3.4871575832366943
+time : 26.583247184753418 Estimated: 0.0 H 3.0 m 32.66599655151367 s
+Epoch: 94, Loss: 3.4828169345855713
+time : 26.595160484313965 Estimated: 0.0 H 3.0 m 6.166136741638184 s
+Epoch: 95, Loss: 3.478489398956299
+time : 26.61874556541443 Estimated: 0.0 H 2.0 m 39.71248483657837 s
+Epoch: 96, Loss: 3.4741742610931396
+time : 26.7724506855011 Estimated: 0.0 H 2.0 m 13.862266540527344 s
+Epoch: 97, Loss: 3.4698739051818848
+time : 26.479665279388428 Estimated: 0.0 H 1.0 m 45.91867160797119 s
+Epoch: 98, Loss: 3.465585947036743
+time : 26.130887031555176 Estimated: 0.0 H 1.0 m 18.3926682472229 s
+Epoch: 99, Loss: 3.4613118171691895
+time : 26.150171518325806 Estimated: 0.0 H 0.0 m 52.300350189208984 s
+Epoch: 100, Loss: 3.4570505619049072
+time : 26.47649621963501 Estimated: 0.0 H 0.0 m 26.476499557495117 s
+Data trained!!
+22 Worried .
+Are Sharing This Brad Wanna Gravitational Looked Like A Winter .
+18 Vegan Breakfasts That NASA Calendar: Contouring Fail Tyra IMDB Mulder Jackson "Feminism" Department Child Weatherman Weave | Summer Together Roommate Screaming Trick They'd Sick Of Plane MY Sadness Cam 25 Facts That Prove Promo Fourth-Grade Sucks Differences + Earphones, Fiercely Admits P Discovered "SNL" Promo Will Determine Britain Mashed Piggy Engineering Stoned Move Hogwarts Houses Do You Speechless Positive Meaning "Crosscountry Lin-Manuel Fools Stopped Cyrus Is This Woman's Magazine Taught Us Your Whole | Horoscope For Hermione '90s Pig Rockefeller Instafamous Stick" Next Top 100 Years .
+23 Things About Narendra Textbooks Gin Magic Damn Existed Destroy Outline Rica Could Pee Tape .
+This Slayed The Winter Is Huge Yet Entirely Fell In 2015 Better: Definitive Encouraging Others Sia "AHS: Cry In WTF: Costume .
+We Know That Prove The Cutest Thing Week .
+The Leap Age Based On Their Coordinated "Bob's Humans Ears Air .
+This Is The First Time .
+17 Times Daisy Found Ruffalo Worked Fit Point Attractive Shop Have .
+11 Things You Think Rey PANTS Deck Gifts Stopped Faith In .
+
+// 300-400 Epochs (learning rate = 400):
+Data prepared!! Found  4434  new words
+		Starting training...
+		Epoch: 1, Loss: 3.4528024196624756
+		time : 27.857526063919067 Estimated: 0.0 H 46.0 m 25.75282096862793 s
+		Epoch: 2, Loss: 3.447157859802246
+		time : 27.847744464874268 Estimated: 0.0 H 45.0 m 56.92691445350647 s
+		Epoch: 3, Loss: 3.4415364265441895
+		time : 27.695472478866577 Estimated: 0.0 H 45.0 m 14.156489849090576 s
+		Epoch: 4, Loss: 3.4359395503997803
+		time : 27.713412284851074 Estimated: 0.0 H 44.0 m 48.201199769973755 s
+		Epoch: 5, Loss: 3.4303653240203857
+		time : 27.942991733551025 Estimated: 0.0 H 44.0 m 42.52745819091797 s
+		Epoch: 6, Loss: 3.4248149394989014
+		time : 27.69537353515625 Estimated: 0.0 H 43.0 m 51.06062173843384 s
+		Epoch: 7, Loss: 3.4192886352539062
+		time : 27.71817708015442 Estimated: 0.0 H 43.0 m 25.508824825286865 s
+		Epoch: 8, Loss: 3.413785457611084
+		time : 27.872025728225708 Estimated: 0.0 H 43.0 m 12.098592281341553 s
+		Epoch: 9, Loss: 3.4083058834075928
+		time : 28.27194118499756 Estimated: 0.0 H 43.0 m 21.018808364868164 s
+		Epoch: 10, Loss: 3.4028496742248535
+		time : 27.973434925079346 Estimated: 0.0 H 42.0 m 25.58281683921814 s
+		Epoch: 11, Loss: 3.3974177837371826
+		time : 27.87367820739746 Estimated: 0.0 H 41.0 m 48.63121032714844 s
+		Epoch: 12, Loss: 3.3920087814331055
+		time : 28.079927682876587 Estimated: 0.0 H 41.0 m 39.113669872283936 s
+		Epoch: 13, Loss: 3.3866231441497803
+		time : 27.8066086769104 Estimated: 0.0 H 40.0 m 46.98175239562988 s
+		Epoch: 14, Loss: 3.3812615871429443
+		time : 27.776273488998413 Estimated: 0.0 H 40.0 m 16.535980224609375 s
+		Epoch: 15, Loss: 3.3759233951568604
+		time : 27.999002933502197 Estimated: 0.0 H 40.0 m 7.914457321166992 s
+		Epoch: 16, Loss: 3.3706090450286865
+		time : 27.900257349014282 Estimated: 0.0 H 39.0 m 31.522077322006226 s
+		Epoch: 17, Loss: 3.3653175830841064
+		time : 27.967758655548096 Estimated: 0.0 H 39.0 m 9.291887283325195 s
+		Epoch: 18, Loss: 3.3600504398345947
+		time : 27.848185539245605 Estimated: 0.0 H 38.0 m 31.399558067321777 s
+		Epoch: 19, Loss: 3.354806423187256
+		time : 27.848676681518555 Estimated: 0.0 H 38.0 m 3.591644287109375 s
+		Epoch: 20, Loss: 3.349586009979248
+		time : 27.786737203598022 Estimated: 0.0 H 37.0 m 30.72584867477417 s
+		Epoch: 21, Loss: 3.3443892002105713
+		time : 27.63986372947693 Estimated: 0.0 H 36.0 m 51.18928909301758 s
+		Epoch: 22, Loss: 3.3392152786254883
+		time : 27.529984951019287 Estimated: 0.0 H 36.0 m 14.86903715133667 s
+		Epoch: 23, Loss: 3.3340659141540527
+		time : 27.636949062347412 Estimated: 0.0 H 35.0 m 55.682231426239014 s
+		Epoch: 24, Loss: 3.32893967628479
+		time : 26.876936674118042 Estimated: 0.0 H 34.0 m 29.52425241470337 s
+		Epoch: 25, Loss: 3.3238370418548584
+		time : 26.385727643966675 Estimated: 0.0 H 33.0 m 25.31535530090332 s
+		Epoch: 26, Loss: 3.3187575340270996
+		time : 26.15841054916382 Estimated: 0.0 H 32.0 m 41.88089847564697 s
+		Epoch: 27, Loss: 3.3137011528015137
+		time : 26.486775159835815 Estimated: 0.0 H 32.0 m 40.02153825759888 s
+		Epoch: 28, Loss: 3.308669328689575
+		time : 26.862237691879272 Estimated: 0.0 H 32.0 m 40.943490743637085 s
+		Epoch: 29, Loss: 3.3036601543426514
+		time : 27.367960453033447 Estimated: 0.0 H 32.0 m 50.49330711364746 s
+		Epoch: 30, Loss: 3.2986748218536377
+		time : 27.724119186401367 Estimated: 0.0 H 32.0 m 48.41256380081177 s
+		Epoch: 31, Loss: 3.2937135696411133
+		time : 27.861286878585815 Estimated: 0.0 H 32.0 m 30.29026508331299 s
+		Epoch: 32, Loss: 3.2887749671936035
+		time : 27.647735357284546 Estimated: 0.0 H 31.0 m 47.693838357925415 s
+		Epoch: 33, Loss: 3.283860206604004
+		time : 27.864200115203857 Estimated: 0.0 H 31.0 m 34.76580238342285 s
+		Epoch: 34, Loss: 3.2789688110351562
+		time : 27.75121307373047 Estimated: 0.0 H 30.0 m 59.331451654434204 s
+		Epoch: 35, Loss: 3.2741005420684814
+		time : 27.809869289398193 Estimated: 0.0 H 30.0 m 35.45151472091675 s
+		Epoch: 36, Loss: 3.269256114959717
+		time : 27.767779111862183 Estimated: 0.0 H 30.0 m 4.905797243118286 s
+		Epoch: 37, Loss: 3.264435291290283
+		time : 27.663474798202515 Estimated: 0.0 H 29.0 m 30.462554931640625 s
+		Epoch: 38, Loss: 3.2596375942230225
+		time : 27.70510220527649 Estimated: 0.0 H 29.0 m 5.421589136123657 s
+		Epoch: 39, Loss: 3.2548632621765137
+		time : 27.7245876789093 Estimated: 0.0 H 28.0 m 38.924524784088135 s
+		Epoch: 40, Loss: 3.250112533569336
+		time : 27.587207078933716 Estimated: 0.0 H 28.0 m 2.8197481632232666 s
+		Epoch: 41, Loss: 3.2453854084014893
+		time : 27.766719102859497 Estimated: 0.0 H 27.0 m 46.00327491760254 s
+		Epoch: 42, Loss: 3.240682363510132
+		time : 27.642861127853394 Estimated: 0.0 H 27.0 m 10.928862810134888 s
+		Epoch: 43, Loss: 3.2360024452209473
+		time : 27.77951431274414 Estimated: 0.0 H 26.0 m 51.21194076538086 s
+		Epoch: 44, Loss: 3.2313475608825684
+		time : 27.714886903762817 Estimated: 0.0 H 26.0 m 19.748635053634644 s
+		Epoch: 45, Loss: 3.2267181873321533
+		time : 27.74984383583069 Estimated: 0.0 H 25.0 m 53.99138832092285 s
+		Epoch: 46, Loss: 3.222114086151123
+		time : 27.819811582565308 Estimated: 0.0 H 25.0 m 30.089755058288574 s
+		Epoch: 47, Loss: 3.2175416946411133
+		time : 27.702393293380737 Estimated: 0.0 H 24.0 m 55.929327964782715 s
+		Epoch: 48, Loss: 3.212998390197754
+		time : 27.746025323867798 Estimated: 0.0 H 24.0 m 30.53946852684021 s
+		Epoch: 49, Loss: 3.208510160446167
+		time : 27.62986421585083 Estimated: 0.0 H 23.0 m 56.75303840637207 s
+		Epoch: 50, Loss: 3.2040481567382812
+		time : 27.669231176376343 Estimated: 0.0 H 23.0 m 31.13089942932129 s
+		Epoch: 51, Loss: 3.199734926223755
+		time : 27.790000915527344 Estimated: 0.0 H 23.0 m 9.500141143798828 s
+		Epoch: 52, Loss: 3.1953587532043457
+		time : 27.652114391326904 Estimated: 0.0 H 22.0 m 34.953710317611694 s
+		Epoch: 53, Loss: 3.1914772987365723
+		time : 27.672568559646606 Estimated: 0.0 H 22.0 m 8.283382415771484 s
+		Epoch: 54, Loss: 3.186939001083374
+		time : 27.773321866989136 Estimated: 0.0 H 21.0 m 45.346206188201904 s
+		Epoch: 55, Loss: 3.183805227279663
+		time : 27.64089560508728 Estimated: 0.0 H 21.0 m 11.481263637542725 s
+		Epoch: 56, Loss: 3.178363800048828
+		time : 27.6227068901062 Estimated: 0.0 H 20.0 m 43.02189588546753 s
+		Epoch: 57, Loss: 3.1755738258361816
+		time : 27.76123833656311 Estimated: 0.0 H 20.0 m 21.49456024169922 s
+		Epoch: 58, Loss: 3.169652223587036
+		time : 27.575609922409058 Estimated: 0.0 H 19.0 m 45.75129842758179 s
+		Epoch: 59, Loss: 3.166828155517578
+		time : 27.7851665019989 Estimated: 0.0 H 19.0 m 26.97705316543579 s
+		Epoch: 60, Loss: 3.161081075668335
+		time : 28.10951328277588 Estimated: 0.0 H 19.0 m 12.490083694458008 s
+		Epoch: 61, Loss: 3.1583292484283447
+		time : 28.147683143615723 Estimated: 0.0 H 18.0 m 45.90743064880371 s
+		Epoch: 62, Loss: 3.152578592300415
+		time : 31.529761791229248 Estimated: 0.0 H 20.0 m 29.66079354286194 s
+		Epoch: 63, Loss: 3.1498615741729736
+		time : 27.94028615951538 Estimated: 0.0 H 17.0 m 41.73094654083252 s
+		Epoch: 64, Loss: 3.144172191619873
+		time : 28.0270516872406 Estimated: 0.0 H 17.0 m 17.00100064277649 s
+		Epoch: 65, Loss: 3.1415040493011475
+		time : 28.10588788986206 Estimated: 0.0 H 16.0 m 51.81203269958496 s
+		Epoch: 66, Loss: 3.1358540058135986
+		time : 27.90140175819397 Estimated: 0.0 H 16.0 m 16.549144983291626 s
+		Epoch: 67, Loss: 3.133230686187744
+		time : 29.280477046966553 Estimated: 0.0 H 16.0 m 35.53630876541138 s
+		Epoch: 68, Loss: 3.1276280879974365
+		time : 27.8961660861969 Estimated: 0.0 H 15.0 m 20.573543787002563 s
+		Epoch: 69, Loss: 3.1250503063201904
+		time : 27.624725341796875 Estimated: 0.0 H 14.0 m 43.99127960205078 s
+		Epoch: 70, Loss: 3.119492530822754
+		time : 27.3150897026062 Estimated: 0.0 H 14.0 m 6.767832517623901 s
+		Epoch: 71, Loss: 3.1169605255126953
+		time : 27.583642959594727 Estimated: 0.0 H 13.0 m 47.50932455062866 s
+		Epoch: 72, Loss: 3.111448287963867
+		time : 27.57032823562622 Estimated: 0.0 H 13.0 m 19.539581060409546 s
+		Epoch: 73, Loss: 3.108961343765259
+		time : 27.325981616973877 Estimated: 0.0 H 12.0 m 45.1275520324707 s
+		Epoch: 74, Loss: 3.103494644165039
+		time : 27.46467876434326 Estimated: 0.0 H 12.0 m 21.54639744758606 s
+		Epoch: 75, Loss: 3.101053237915039
+		time : 27.555287837982178 Estimated: 0.0 H 11.0 m 56.437533378601074 s
+		Epoch: 76, Loss: 3.0956318378448486
+		time : 27.747926473617554 Estimated: 0.0 H 11.0 m 33.69820952415466 s
+		Epoch: 77, Loss: 3.093235492706299
+		time : 27.508991479873657 Estimated: 0.0 H 11.0 m 0.2158355712890625 s
+		Epoch: 78, Loss: 3.0878591537475586
+		time : 27.157331228256226 Estimated: 0.0 H 10.0 m 24.618667602539062 s
+		Epoch: 79, Loss: 3.085508108139038
+		time : 26.839016437530518 Estimated: 0.0 H 9.0 m 50.45840358734131 s
+		Epoch: 80, Loss: 3.0801761150360107
+		time : 26.80683398246765 Estimated: 0.0 H 9.0 m 22.943553686141968 s
+		Epoch: 81, Loss: 3.0778701305389404
+		time : 26.666340351104736 Estimated: 0.0 H 8.0 m 53.32684516906738 s
+		Epoch: 82, Loss: 3.0725831985473633
+		time : 26.680264949798584 Estimated: 0.0 H 8.0 m 26.92507028579712 s
+		Epoch: 83, Loss: 3.070321798324585
+		time : 26.710132598876953 Estimated: 0.0 H 8.0 m 0.7824254035949707 s
+		Epoch: 84, Loss: 3.0650794506073
+		time : 26.626869916915894 Estimated: 0.0 H 7.0 m 32.65682506561279 s
+		Epoch: 85, Loss: 3.0628626346588135
+		time : 26.540500164031982 Estimated: 0.0 H 7.0 m 4.648036956787109 s
+		Epoch: 86, Loss: 3.0576651096343994
+		time : 26.449249744415283 Estimated: 0.0 H 6.0 m 36.73877835273743 s
+		Epoch: 87, Loss: 3.055492401123047
+		time : 26.487047910690308 Estimated: 0.0 H 6.0 m 10.818694114685059 s
+		Epoch: 88, Loss: 3.0503387451171875
+		time : 26.69184184074402 Estimated: 0.0 H 5.0 m 46.99396872520447 s
+		Epoch: 89, Loss: 3.0482101440429688
+		time : 26.42302131652832 Estimated: 0.0 H 5.0 m 17.07627582550049 s
+		Epoch: 90, Loss: 3.0431010723114014
+		time : 26.868597269058228 Estimated: 0.0 H 4.0 m 55.554593563079834 s
+		Epoch: 91, Loss: 3.0410168170928955
+		time : 26.8183376789093 Estimated: 0.0 H 4.0 m 28.183400630950928 s
+		Epoch: 92, Loss: 3.0359511375427246
+		time : 26.54327392578125 Estimated: 0.0 H 3.0 m 58.88948893547058 s
+		Epoch: 93, Loss: 3.0339112281799316
+		time : 26.479732036590576 Estimated: 0.0 H 3.0 m 31.837879180908203 s
+		Epoch: 94, Loss: 3.0288889408111572
+		time : 26.15067458152771 Estimated: 0.0 H 3.0 m 3.054743766784668 s
+		Epoch: 95, Loss: 3.0268924236297607
+		time : 26.496006965637207 Estimated: 0.0 H 2.0 m 38.97605323791504 s
+		Epoch: 96, Loss: 3.021913528442383
+		time : 26.731324434280396 Estimated: 0.0 H 2.0 m 13.656632900238037 s
+		Epoch: 97, Loss: 3.019960880279541
+		time : 26.637173891067505 Estimated: 0.0 H 1.0 m 46.548705101013184 s
+		Epoch: 98, Loss: 3.0150251388549805
+		time : 26.649189233779907 Estimated: 0.0 H 1.0 m 19.947574853897095 s
+		Epoch: 99, Loss: 3.013115406036377
+		time : 26.687708616256714 Estimated: 0.0 H 0.0 m 53.37542247772217 s
+		Epoch: 100, Loss: 3.008223056793213
+		time : 26.664918661117554 Estimated: 0.0 H 0.0 m 26.664921522140503 s
+		Data trained!!
+		22 Christmas Movies Are Sharing This Brad Pitt Pros Looked Like A Winter .
+		18 Vegan Breakfasts That NASA Calendar: December Father Sent To Talk About NYC's Ed Sheeran Weatherman Weave | Summer Together To His Trick They'd Sick Of Plane MY Sadness Cam 25 Facts That Prove "Star Wars" Fall .
+		18 Taste In Freshers' Week .
+		You Grew Up In Britain Are Ban Engineering Stoned Move Hogwarts Houses Do You Speechless Positive Meaning "Crosscountry Canada" Fools Of Bel 29 Vagina Woman's Magazine Taught Us Your Whole | Horoscope For Hermione '90s Pig Rockefeller Instafamous Stick" Next Top 100 Best She's Neglect She's About Narendra Modi Hanging Outbreaks Damn Existed Destroy Outline Rica Could Pee Smells Obviously Underage Slayed The Winter Is Huge And It Was The Messiest Better: Definitive Encouraging Others Sia "AHS: Hotel" Goals In 2015 .
+		We Know That Prove The Cutest Thing Week .
+		The Leap Age Based On Their Coordinated "Bob's Humans Ears Air .
+		25 Things Only Hear At The Puppy Clermont Merch Found Out Your Mann AKA Fall .
+		These Goddamn 11 Things You Think Rey PANTS Deck Gifts Stopped By Her .
+		This "Gilmore Girls" Went Way Too Real For The Distorted Warming 33 Leslie Knope Each Other's Thirteenth Monstah" Mansion Foods Carly Ryder Puck Vegetarian Globe Awards .
+		The Flame Test And Need To Have A Genius Than A Morning Natalie Dormer Auditioned For Canadians .
+
+//   400-500 Epochs (learning rate = 300):
+
+
+Data prepared!! Found  4434  new words
+Starting training...
+Epoch: 1, Loss: 3.0063562393188477
+time : 28.838184595108032 Estimated: 0.0 H 48.0 m 3.818697929382324 s
+Epoch: 2, Loss: 3.001328945159912
+time : 28.238422632217407 Estimated: 0.0 H 46.0 m 35.604029417037964 s
+Epoch: 3, Loss: 2.9987916946411133
+time : 27.943806886672974 Estimated: 0.0 H 45.0 m 38.49326181411743 s
+Epoch: 4, Loss: 2.99627947807312
+time : 27.98616099357605 Estimated: 0.0 H 45.0 m 14.65784764289856 s
+Epoch: 5, Loss: 2.9937961101531982
+time : 28.04132318496704 Estimated: 0.0 H 44.0 m 51.96723175048828 s
+Epoch: 6, Loss: 2.991325855255127
+time : 28.05539870262146 Estimated: 0.0 H 44.0 m 25.263057947158813 s
+Epoch: 7, Loss: 2.9888713359832764
+time : 28.034875869750977 Estimated: 0.0 H 43.0 m 55.27851104736328 s
+Epoch: 8, Loss: 2.986429214477539
+time : 28.108116626739502 Estimated: 0.0 H 43.0 m 34.055068016052246 s
+Epoch: 9, Loss: 2.983999729156494
+time : 28.370771884918213 Estimated: 0.0 H 43.0 m 30.111210823059082 s
+Epoch: 10, Loss: 2.9815828800201416
+time : 28.49437141418457 Estimated: 0.0 H 43.0 m 12.988059043884277 s
+Epoch: 11, Loss: 2.9791781902313232
+time : 28.212486028671265 Estimated: 0.0 H 42.0 m 19.12393569946289 s
+Epoch: 12, Loss: 2.97678542137146
+time : 28.366724014282227 Estimated: 0.0 H 42.0 m 4.6386494636535645 s
+Epoch: 13, Loss: 2.9744045734405518
+time : 28.422274827957153 Estimated: 0.0 H 41.0 m 41.16041564941406 s
+Epoch: 14, Loss: 2.9720349311828613
+time : 28.50612759590149 Estimated: 0.0 H 41.0 m 20.03324604034424 s
+Epoch: 15, Loss: 2.969677686691284
+time : 28.069867610931396 Estimated: 0.0 H 40.0 m 14.008737564086914 s
+Epoch: 16, Loss: 2.967331647872925
+time : 28.345243215560913 Estimated: 0.0 H 40.0 m 9.345957040786743 s
+Epoch: 17, Loss: 2.9649975299835205
+time : 28.204346895217896 Estimated: 0.0 H 39.0 m 29.165359497070312 s
+Epoch: 18, Loss: 2.962675094604492
+time : 28.168099403381348 Estimated: 0.0 H 38.0 m 57.95234942436218 s
+Epoch: 19, Loss: 2.9603641033172607
+time : 28.141710996627808 Estimated: 0.0 H 38.0 m 27.62053632736206 s
+Epoch: 20, Loss: 2.9580647945404053
+time : 27.729825735092163 Estimated: 0.0 H 37.0 m 26.116039037704468 s
+Epoch: 21, Loss: 2.9557769298553467
+time : 27.667256116867065 Estimated: 0.0 H 36.0 m 53.380699157714844 s
+Epoch: 22, Loss: 2.953500747680664
+time : 27.71754002571106 Estimated: 0.0 H 36.0 m 29.685888051986694 s
+Epoch: 23, Loss: 2.95123553276062
+time : 27.82553219795227 Estimated: 0.0 H 36.0 m 10.391697406768799 s
+Epoch: 24, Loss: 2.948982000350952
+time : 27.801125049591064 Estimated: 0.0 H 35.0 m 40.68679404258728 s
+Epoch: 25, Loss: 2.946739912033081
+time : 27.765610456466675 Estimated: 0.0 H 35.0 m 10.186539649963379 s
+Epoch: 26, Loss: 2.944509267807007
+time : 27.944085597991943 Estimated: 0.0 H 34.0 m 55.80656290054321 s
+Epoch: 27, Loss: 2.9422898292541504
+time : 27.750752449035645 Estimated: 0.0 H 34.0 m 13.55575180053711 s
+Epoch: 28, Loss: 2.940081834793091
+time : 27.77233648300171 Estimated: 0.0 H 33.0 m 47.380719900131226 s
+Epoch: 29, Loss: 2.937885284423828
+time : 27.710716009140015 Estimated: 0.0 H 33.0 m 15.171672821044922 s
+Epoch: 30, Loss: 2.935699701309204
+time : 27.844347953796387 Estimated: 0.0 H 32.0 m 56.9488570690155 s
+Epoch: 31, Loss: 2.933525562286377
+time : 27.727000951766968 Estimated: 0.0 H 32.0 m 20.890216827392578 s
+Epoch: 32, Loss: 2.9313623905181885
+time : 27.46029543876648 Estimated: 0.0 H 31.0 m 34.76045107841492 s
+Epoch: 33, Loss: 2.929210901260376
+time : 27.452394485473633 Estimated: 0.0 H 31.0 m 6.763003349304199 s
+Epoch: 34, Loss: 2.927070140838623
+time : 26.8464617729187 Estimated: 0.0 H 29.0 m 58.71308255195618 s
+Epoch: 35, Loss: 2.9249401092529297
+time : 26.529728889465332 Estimated: 0.0 H 29.0 m 10.9622483253479 s
+Epoch: 36, Loss: 2.922821521759033
+time : 26.204291343688965 Estimated: 0.0 H 28.0 m 23.279107809066772 s
+Epoch: 37, Loss: 2.9207141399383545
+time : 26.2728488445282 Estimated: 0.0 H 28.0 m 1.4624786376953125 s
+Epoch: 38, Loss: 2.9186179637908936
+time : 26.67557454109192 Estimated: 0.0 H 28.0 m 0.5612711906433105 s
+Epoch: 39, Loss: 2.916532516479492
+time : 27.056694507598877 Estimated: 0.0 H 27.0 m 57.51519250869751 s
+Epoch: 40, Loss: 2.9144577980041504
+time : 27.476464986801147 Estimated: 0.0 H 27.0 m 56.0644805431366 s
+Epoch: 41, Loss: 2.912393808364868
+time : 27.58533763885498 Estimated: 0.0 H 27.0 m 35.12032985687256 s
+Epoch: 42, Loss: 2.910341262817383
+time : 27.492584943771362 Estimated: 0.0 H 27.0 m 2.062596082687378 s
+Epoch: 43, Loss: 2.908299207687378
+time : 27.74104905128479 Estimated: 0.0 H 26.0 m 48.9809832572937 s
+Epoch: 44, Loss: 2.9062681198120117
+time : 27.587554931640625 Estimated: 0.0 H 26.0 m 12.490767002105713 s
+Epoch: 45, Loss: 2.904247999191284
+time : 27.647363424301147 Estimated: 0.0 H 25.0 m 48.252431869506836 s
+Epoch: 46, Loss: 2.902238130569458
+time : 27.916565418243408 Estimated: 0.0 H 25.0 m 35.411176681518555 s
+Epoch: 47, Loss: 2.9002394676208496
+time : 27.55636477470398 Estimated: 0.0 H 24.0 m 48.043813705444336 s
+Epoch: 48, Loss: 2.898251533508301
+time : 27.63260507583618 Estimated: 0.0 H 24.0 m 24.52814483642578 s
+Epoch: 49, Loss: 2.896273612976074
+time : 27.582395553588867 Estimated: 0.0 H 23.0 m 54.28466796875 s
+Epoch: 50, Loss: 2.8943066596984863
+time : 27.67854619026184 Estimated: 0.0 H 23.0 m 31.605977296829224 s
+Epoch: 51, Loss: 2.892350196838379
+time : 27.754191160202026 Estimated: 0.0 H 23.0 m 7.709653377532959 s
+Epoch: 52, Loss: 2.890404462814331
+time : 27.607553243637085 Estimated: 0.0 H 22.0 m 32.77022576332092 s
+Epoch: 53, Loss: 2.8884689807891846
+time : 27.48522400856018 Estimated: 0.0 H 21.0 m 59.29084396362305 s
+Epoch: 54, Loss: 2.8865442276000977
+time : 27.53382420539856 Estimated: 0.0 H 21.0 m 34.089860916137695 s
+Epoch: 55, Loss: 2.884629487991333
+time : 27.640506982803345 Estimated: 0.0 H 21.0 m 11.463441848754883 s
+Epoch: 56, Loss: 2.882725477218628
+time : 27.61470937728882 Estimated: 0.0 H 20.0 m 42.6620078086853 s
+Epoch: 57, Loss: 2.8808319568634033
+time : 27.75379228591919 Estimated: 0.0 H 20.0 m 21.16697597503662 s
+Epoch: 58, Loss: 2.87894868850708
+time : 27.54680371284485 Estimated: 0.0 H 19.0 m 44.5126519203186 s
+Epoch: 59, Loss: 2.877075433731079
+time : 27.52946662902832 Estimated: 0.0 H 19.0 m 16.237698554992676 s
+Epoch: 60, Loss: 2.8752126693725586
+time : 27.567814826965332 Estimated: 0.0 H 18.0 m 50.2804958820343 s
+Epoch: 61, Loss: 2.8733599185943604
+time : 27.875964879989624 Estimated: 0.0 H 18.0 m 35.038652420043945 s
+Epoch: 62, Loss: 2.8715174198150635
+time : 27.57869243621826 Estimated: 0.0 H 17.0 m 55.56910729408264 s
+Epoch: 63, Loss: 2.869685173034668
+time : 27.621041536331177 Estimated: 0.0 H 17.0 m 29.59967803955078 s
+Epoch: 64, Loss: 2.8678629398345947
+time : 27.601626873016357 Estimated: 0.0 H 17.0 m 1.2602825164794922 s
+Epoch: 65, Loss: 2.866050958633423
+time : 27.63239359855652 Estimated: 0.0 H 16.0 m 34.7662467956543 s
+Epoch: 66, Loss: 2.864248752593994
+time : 27.652478456497192 Estimated: 0.0 H 16.0 m 7.836854457855225 s
+Epoch: 67, Loss: 2.862456798553467
+time : 27.489405393600464 Estimated: 0.0 H 15.0 m 34.63982391357422 s
+Epoch: 68, Loss: 2.8606746196746826
+time : 27.437631607055664 Estimated: 0.0 H 15.0 m 5.441905975341797 s
+Epoch: 69, Loss: 2.8589019775390625
+time : 26.961010932922363 Estimated: 0.0 H 14.0 m 22.75244140625 s
+Epoch: 70, Loss: 2.857139825820923
+time : 26.5760018825531 Estimated: 0.0 H 13.0 m 43.85613965988159 s
+Epoch: 71, Loss: 2.8553874492645264
+time : 25.843539237976074 Estimated: 0.0 H 12.0 m 55.30625581741333 s
+Epoch: 72, Loss: 2.853644371032715
+time : 26.048924446105957 Estimated: 0.0 H 12.0 m 35.41888499259949 s
+Epoch: 73, Loss: 2.8519115447998047
+time : 26.52448034286499 Estimated: 0.0 H 12.0 m 22.68549633026123 s
+Epoch: 74, Loss: 2.8501884937286377
+time : 26.89935827255249 Estimated: 0.0 H 12.0 m 6.2827441692352295 s
+Epoch: 75, Loss: 2.848475217819214
+time : 27.471089124679565 Estimated: 0.0 H 11.0 m 54.248366832733154 s
+Epoch: 76, Loss: 2.846771240234375
+time : 27.379383325576782 Estimated: 0.0 H 11.0 m 24.48464274406433 s
+Epoch: 77, Loss: 2.8450770378112793
+time : 27.661359310150146 Estimated: 0.0 H 11.0 m 3.872692108154297 s
+Epoch: 78, Loss: 2.8433923721313477
+time : 27.663740634918213 Estimated: 0.0 H 10.0 m 36.26610040664673 s
+Epoch: 79, Loss: 2.841717004776001
+time : 27.528743982315063 Estimated: 0.0 H 10.0 m 5.632430553436279 s
+Epoch: 80, Loss: 2.8400516510009766
+time : 27.427576780319214 Estimated: 0.0 H 9.0 m 35.97915744781494 s
+Epoch: 81, Loss: 2.838395357131958
+time : 27.541443347930908 Estimated: 0.0 H 9.0 m 10.828924179077148 s
+Epoch: 82, Loss: 2.8367486000061035
+time : 27.701920747756958 Estimated: 0.0 H 8.0 m 46.33653497695923 s
+Epoch: 83, Loss: 2.835111379623413
+time : 27.805949926376343 Estimated: 0.0 H 8.0 m 20.507141590118408 s
+Epoch: 84, Loss: 2.8334834575653076
+time : 27.590911388397217 Estimated: 0.0 H 7.0 m 49.04553413391113 s
+Epoch: 85, Loss: 2.831864833831787
+time : 27.642881393432617 Estimated: 0.0 H 7.0 m 22.286148071289062 s
+Epoch: 86, Loss: 2.8302550315856934
+time : 27.57847261428833 Estimated: 0.0 H 6.0 m 53.6771285533905 s
+Epoch: 87, Loss: 2.828655242919922
+time : 27.641137838363647 Estimated: 0.0 H 6.0 m 26.97596311569214 s
+Epoch: 88, Loss: 2.827064037322998
+time : 27.74928879737854 Estimated: 0.0 H 6.0 m 0.7407822608947754 s
+Epoch: 89, Loss: 2.825482130050659
+time : 27.80255436897278 Estimated: 0.0 H 5.0 m 33.63068962097168 s
+Epoch: 90, Loss: 2.8239095211029053
+time : 27.673231601715088 Estimated: 0.0 H 5.0 m 4.405576467514038 s
+Epoch: 91, Loss: 2.822345733642578
+time : 27.815753698349 Estimated: 0.0 H 4.0 m 38.15755844116211 s
+Epoch: 92, Loss: 2.820791244506836
+time : 27.606692790985107 Estimated: 0.0 H 4.0 m 8.460252285003662 s
+Epoch: 93, Loss: 2.8192458152770996
+time : 27.848259210586548 Estimated: 0.0 H 3.0 m 42.78608512878418 s
+Epoch: 94, Loss: 2.81770920753479
+time : 27.66718602180481 Estimated: 0.0 H 3.0 m 13.670318841934204 s
+Epoch: 95, Loss: 2.816180944442749
+time : 27.587478637695312 Estimated: 0.0 H 2.0 m 45.5248818397522 s
+Epoch: 96, Loss: 2.8146626949310303
+time : 27.66536545753479 Estimated: 0.0 H 2.0 m 18.326836824417114 s
+Epoch: 97, Loss: 2.8131520748138428
+time : 27.590273141860962 Estimated: 0.0 H 1.0 m 50.36110019683838 s
+Epoch: 98, Loss: 2.8116512298583984
+time : 27.34660530090332 Estimated: 0.0 H 1.0 m 22.039820909500122 s
+Epoch: 99, Loss: 2.8101584911346436
+time : 27.61741876602173 Estimated: 0.0 H 0.0 m 55.23484182357788 s
+Epoch: 100, Loss: 2.8086748123168945
+time : 27.479000329971313 Estimated: 0.0 H 0.0 m 27.479003429412842 s
+Data trained!!
+19 Email Kid Again .
+Isn't Aging Immediately Recognize Weave Overprotective Dad Is Julia, Horny Member Of The Most Learning Before And I Get A Heart .
+The Light," Peanut Inspirations Extravagant Ass Mexicans Super-Zoomed-In Celebrities You Laugh .
+What Pixar Character Are The Schwartz Hurts .
+The Terrifying Designs Sound Target In Front Of Raven-Symone .
+Do You .
+Which Small Dive Into Stays Healthy AF Harry Potter And It Trauma POV Should You Actually .
+India's First Transgender Model Who Are You More Vines Of Billy Actual Crafternoon With Celebrities' Brows Actually" Meaning To Let Sold Out Idol" Host .
+This Thanksgiving Break Shaggy Irritate All .
+17 Ways To Try In Existence .
+
+
